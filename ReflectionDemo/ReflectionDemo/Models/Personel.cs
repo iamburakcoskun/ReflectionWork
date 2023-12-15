@@ -2,6 +2,7 @@
 
 namespace ReflectionDemo.Models
 {
+    [PersonelRole]
     public class Personel
     {
         public int Salary { get; set; }
